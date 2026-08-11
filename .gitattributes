@@ -1,0 +1,5 @@
+# Git for Windows ships with core.autocrlf=true, which would check the theme
+# out with CRLF line endings. zsh treats the trailing \r as part of the token
+# and the theme fails to parse. Pin everything to LF.
+* text=auto eol=lf
+*.zsh-theme text eol=lf
