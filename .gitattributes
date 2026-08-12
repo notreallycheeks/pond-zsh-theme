@@ -3,3 +3,6 @@
 # and the theme fails to parse. Pin everything to LF.
 * text=auto eol=lf
 *.zsh-theme text eol=lf
+
+# Screenshots must never go through line-ending conversion.
+*.png binary

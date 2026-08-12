@@ -2,6 +2,11 @@
 
 A calm two-line [oh-my-zsh](https://ohmyz.sh/) theme in pastel greens and blues.
 
+![pond running under WSL2 in Windows Terminal](assets/pond_terminal.png)
+
+The prompt sits at the bottom left. Annotated, with a dirty tree and a slow
+command:
+
 ```
 ╭─  ~/dev/project  on  main ✚1 ●2                          1.4s
 ╰─≈ ❯
